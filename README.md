@@ -1,4 +1,4 @@
-### Hi, I'm Hannah Stern! 👋
+### Hi, I'm Hannah Hughes! 👋
 
 - 🔭 I’m currently working on getting a degree in Game Design from Columbia COllege Chicago.
 - 🌱 I’m currently learning C# and Unity
